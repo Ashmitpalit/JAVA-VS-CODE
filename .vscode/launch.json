@@ -1,0 +1,30 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch one",
+      "request": "launch",
+      "mainClass": "one",
+      "projectName": "JAVA VS CODE_fe6a8dd2"
+    },
+    {
+      "type": "java",
+      "name": "Launch Codechef",
+      "request": "launch",
+      "mainClass": "Codechef",
+      "projectName": "JAVA VS CODE_fe6a8dd2"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/ashmitpalit/JAVA VS CODE",
+      "program": "/Users/ashmitpalit/JAVA VS CODE/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
